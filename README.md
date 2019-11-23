@@ -1,4 +1,4 @@
-### sqlalchemy
+### SQLAlchemy
 ---
 https://github.com/zzzeek/sqlalchemy
 
